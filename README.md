@@ -36,3 +36,4 @@ Hourglasses (time machine ⏳)
 Palindromic pyramids (mirror magic 🪞)
 
 💡 Got a wacky pattern idea? Drop it in — let’s keep the pyramid rave going! 🎶🔥
+Author--> Anirban Chattaraj
