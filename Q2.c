@@ -1,3 +1,4 @@
+//Print this pattern
 //*******
 // *****
  // ***
