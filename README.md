@@ -25,5 +25,7 @@ Learn the art of spacing (a.k.a. pyramid alignment zen 🧘)
 Level up from basic baby patterns → to intermediate boss mode
 
 
-💡 Got a wacky pattern idea? Drop it in — let’s keep the pyramid rave going! 🎶🔥
+💡 Got a wacky pattern idea? Drop it in — let’s keep the pyramid rave going! 
+
+🎶🔥
 Author--> Anirban Chattaraj
