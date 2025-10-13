@@ -23,17 +23,7 @@ Train your brain with nested loop kung fu 🥋
 Learn the art of spacing (a.k.a. pyramid alignment zen 🧘)
 
 Level up from basic baby patterns → to intermediate boss mode
-🚀 What’s Next?
 
-This party is just starting... coming soon:
-
-Hollow pyramids (skeleton mode 💀)
-
-Diamonds (bling bling 💎)
-
-Hourglasses (time machine ⏳)
-
-Palindromic pyramids (mirror magic 🪞)
 
 💡 Got a wacky pattern idea? Drop it in — let’s keep the pyramid rave going! 🎶🔥
 Author--> Anirban Chattaraj
